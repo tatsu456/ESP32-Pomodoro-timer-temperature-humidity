@@ -12,8 +12,8 @@
 // 1. 各種設定
 // ==========================================
 // --- WiFi設定 ---
-const char* ssid = "tatwifi";      // ★ご自身のWi-FiのSSID
-const char* password = "oopp5963"; // ★ご自身のWi-Fiのパスワード
+const char* ssid = "sample";      // ★ご自身のWi-FiのSSID
+const char* password = "sample"; // ★ご自身のWi-Fiのパスワード
 
 // --- ディスプレイ設定 (SH1107 128x128用) ---
 #define I2C_ADDRESS 0x3c
